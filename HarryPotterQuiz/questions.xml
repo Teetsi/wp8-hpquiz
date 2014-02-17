@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<root>
+  <quiz>
+    <id>0</id>
+    <question>Who broke Albus Dumbledore's nose?</question>
+    <answer>Gellert Grindlewald</answer>
+    <answer>Aberforth Dumbledore</answer>
+    <answer>Severus Snape</answer>
+    <answer>Voldemort</answer>
+    <correct>2</correct>
+  </quiz>
+  <quiz>
+    <id>1</id>
+    <question>How did Moaning Myrtle die?</question>
+    <answer>She killed herself because Oliver Horndy made fun of her glasses.</answer>
+    <answer>She slipped on the wet bathroom floor, hit her head, and died.</answer>
+    <answer>She drank a uncorrectly stewed potion.</answer>
+    <answer>She stared a basilisk in the eye.</answer>
+    <correct>4</correct>
+  </quiz>
+  <quiz>
+    <id>2</id>
+    <question>How does one send fluffy to sleep?</question>
+    <answer>Stroke his tail.</answer>
+    <answer>Play him music.</answer>
+    <answer>Feed him chocolate.</answer>
+    <correct>2</correct>
+  </quiz>
+  <quiz>
+    <id>3</id>
+    <question>What breed of dragon was Norbert?</question>
+    <answer>Welsh Green</answer>
+    <answer>Sweedish Shortsnout</answer>
+    <answer>Chineese Firebolt</answer>
+    <answer>Norwegian Ridgeback</answer>
+    <answer>Hungarian Horntail</answer>
+    <correct>4</correct>
+  </quiz>
+  <quiz>
+    <id>4</id>
+    <question>Who of these was never in the 'slug club'?</question>
+    <answer>Ginny Weasley</answer>
+    <answer>Cormac McLaggen</answer>
+    <answer>Hermione Granger</answer>
+    <answer>Lily Evans</answer>
+    <answer>Luna Lovegood</answer>
+    <answer>Harry Potter</answer>
+    <correct>5</correct>
+  </quiz>
+  <quiz>
+    <id>5</id>
+    <question>Who was strangled by Devil's Snare in St Mungo's Hospital for Magical Maladies and Injuries, in the ward where Neville's parents reside?</question>
+    <answer>Sturgis Podmore</answer>
+    <answer>Broderick Bode</answer>
+    <answer>Bertha Jorkins</answer>
+    <answer>Dirk Cresswell</answer>
+    <correct>2</correct>
+  </quiz>
+  <quiz>
+    <id>6</id>
+    <question>Who teaches Draco Malfoy Occlumency?</question>
+    <answer>Voldemort</answer>
+    <answer>Severus Snape</answer>
+    <answer>Lucius Malfoy</answer>
+    <answer>Bellatrix Lestrange</answer>
+    <correct>4</correct>
+  </quiz>
+  <quiz>
+    <id>7</id>
+    <question>What does S.P.E.W. stand for?</question>
+    <answer>Society for the Protection of Elfish Well-being</answer>
+    <answer>Society for the Promotion of Elfish Welfare</answer>
+    <answer>Society for the Protection of Elfish Welfare</answer>
+    <answer>Society for the Promotion of Elfish Well-being</answer>
+    <correct>2</correct>
+  </quiz>
+  <quiz>
+    <id>8</id>
+    <question>What form does the boggart take in front of Hermione?</question>
+    <answer>Bellatrix brandishing a knife.</answer>
+    <answer>Ron kissing Lavender.</answer>
+    <answer>McGonagall telling her she failed her tests.</answer>
+    <answer>Ron kissing Harry.</answer>
+    <correct>3</correct>
+  </quiz>
+  <quiz>
+    <id>9</id>
+    <question>Who warns Dumbledore's Army that Umbridge knows where they are practising and that she's coming to get them all?</question>
+    <answer>Neville Longbottom</answer>
+    <answer>Dobby the house-elf.</answer>
+    <answer>Dumbledore</answer>
+    <answer>McGonagall</answer>
+    <correct>2</correct>
+  </quiz>
+  <quiz>
+    <id>10</id>
+    <question>Who is dressed as a woman in the Hog's Head because he was barred a long time ago and has no available invisibility cloak?</question>
+    <answer>Mad-Eye Moody</answer>
+    <answer>Aberforth Dumbledore</answer>
+    <answer>Sirius Black</answer>
+    <answer>Mundugus Fletcher</answer>
+    <answer>Willy Widershins</answer>
+    <correct>4</correct>
+  </quiz>
+  <quiz>
+    <id>11</id>
+    <question>Who kills Bellatrix Lestrange?</question>
+    <answer>Molly Weasley</answer>
+    <answer>Nymphadora Tonks</answer>
+    <answer>Ginny Weasley</answer>
+    <answer>Neville Longbottom</answer>
+    <answer>Flur Delacour </answer>
+    <correct>1</correct>
+  </quiz>
+  <quiz>
+    <id>12</id>
+    <question>What was the name of the only radio station that wasn't in-line with Voldemort in Harry Potter and the Deathly Hallows?</question>
+    <answer>Hearharry</answer>
+    <answer>Potterwatch</answer>
+    <answer>Orderadio</answer>
+    <answer>Orderwatch</answer>
+    <correct>2</correct>
+  </quiz>
+  <quiz>
+    <id>13</id>
+    <question>What type of car does Mr. Weasley enchant to make fly?</question>
+    <answer>Lamorgini</answer>
+    <answer>BMW</answer>
+    <answer>Ford Anglia</answer>
+    <answer>Honda Civic</answer>
+    <answer>Mercades</answer>
+    <answer>Ford Fiesta</answer>
+    <answer>Aston Marten</answer>
+    <correct>3</correct>
+  </quiz>
+  <quiz>
+    <id>14</id>
+    <question>Who destroys the horcrux that is Hufflepuff's cup?</question>
+    <answer>Ron</answer>
+    <answer>Luna</answer>
+    <answer>Ginny</answer>
+    <answer>Hermione</answer>
+    <answer>Neville</answer>
+    <answer>Wormtail</answer>
+    <correct>4</correct>
+  </quiz>
+  <quiz>
+    <id>15</id>
+    <question>What was the name of Severus Snape's father?</question>
+    <answer>Thomas</answer>
+    <answer>Tobias</answer>
+    <answer>Toby</answer>
+    <answer>Avery</answer>
+    <answer>Animotch</answer>
+    <correct>2</correct>
+  </quiz>
+  <quiz>
+    <id>16</id>
+    <question>What is written on the tombstone of James and Lily Potter?</question>
+    <answer>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</answer>
+    <answer>"The last enemy that shall be destroyed is death."</answer>
+    <answer>"Death is but the next great adventure."</answer>
+    <answer>"It is the unknown we fear when we look upon death and darkness, nothing more."</answer>
+    <correct>2</correct>
+  </quiz>
+  <quiz>
+    <id>17</id>
+    <question>Who does Voldemort steal Hufflepuff's cup from?</question>
+    <answer>Helga Hufflepuff</answer>
+    <answer>Bathilda Bagshot</answer>
+    <answer>Helena Ravenclaw</answer>
+    <answer>Hepzibah Smith</answer>
+    <correct>4</correct>
+  </quiz>
+  <quiz>
+    <id>18</id>
+    <question>The one time Harry enters the Slytherin common room, what is the password?</question>
+    <answer>Death Eater</answer>
+    <answer>Mudblood</answer>
+    <answer>Pureblood</answer>
+    <answer>Serpent</answer>
+    <correct>3</correct>
+  </quiz>
+  <quiz>
+    <id>19</id>
+    <question>How does Hermione defeat devil's snare?</question>
+    <answer>Moonlight</answer>
+    <answer>Snow</answer>
+    <answer>Witchlight</answer>
+    <answer>Fire</answer>
+    <correct>4</correct>
+  </quiz>
+  <quiz>
+    <id>20</id>
+    <question>What was the name of Voldemort's mother?</question>
+    <answer>Olympe</answer>
+    <answer>Olena</answer>
+    <answer>Melody</answer>
+    <answer>Merope</answer>
+    <answer>Olandre</answer>
+    <correct>4</correct>
+  </quiz>
+  <quiz>
+    <id>21</id>
+    <question>Who did Dumbledore take, or 'win', the elder wand from?</question>
+    <answer>Gregorovitch</answer>
+    <answer>Grindlewald</answer>
+    <answer>Olivander</answer>
+    <answer>Voldemort</answer>
+    <correct>2</correct>
+  </quiz>
+  <quiz>
+    <id>22</id>
+    <question>Who of the following was never a death eater?</question>
+    <answer>Lucius Malfoy</answer>
+    <answer>Bellatrix Lestrange</answer>
+    <answer>Yaxley</answer>
+    <answer>Rodolphus Lestrange</answer>
+    <answer>Fenrir Grayback</answer>
+    <answer>Severus Snape</answer>
+    <answer>Igor Karkaroff</answer>
+    <answer>Regulus Black</answer>
+    <correct>5</correct>
+  </quiz>
+  <quiz>
+    <id>23</id>
+    <question>Who won the quidditch world cup in Harry Potter and the Goblet of Fire?</question>
+    <answer>Bulgaria</answer>
+    <answer>Portugal</answer>
+    <answer>Ireland</answer>
+    <answer>England</answer>
+    <answer>Wales</answer>
+    <correct>3</correct>
+  </quiz>
+  <quiz>
+    <id>24</id>
+    <question>How do you stop the monster book of monsters from trying to eat you?</question>
+    <answer>Put a belt around it.</answer>
+    <answer>Poke it's eye.</answer>
+    <answer>Tug it's tounge.</answer>
+    <answer>Sroke it's spine.</answer>
+    <answer>Tug the bookmark.</answer>
+    <correct>4</correct>
+  </quiz>
+  <quiz>
+    <id>25</id>
+    <question>Who kills Alastor Moody?</question>
+    <answer>Severus Snape</answer>
+    <answer>Voldemort</answer>
+    <answer>Bellatrix Lestrange</answer>
+    <answer>Barty Crouch Juniour</answer>
+    <answer>Marvolo Gaunt</answer>
+    <correct>2</correct>
+  </quiz>
+  <quiz>
+    <id>26</id>
+    <question>What does Hagrid use to make magic?</question>
+    <answer>A teapot.</answer>
+    <answer>A pointy purple hat.</answer>
+    <answer>A pink umbrella.</answer>
+    <correct>3</correct>
+  </quiz>
+  <quiz>
+    <id>27</id>
+    <question>What month is Hermione's birthday?</question>
+    <answer>May</answer>
+    <answer>Febuary</answer>
+    <answer>September</answer>
+    <answer>April</answer>
+    <answer>January</answer>
+    <answer>December</answer>
+    <correct>3</correct>
+  </quiz>
+</root>
