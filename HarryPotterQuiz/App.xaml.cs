@@ -16,7 +16,7 @@ namespace HarryPotterQuiz
         private static MainViewModel viewModel = null;
 
         public static int questionNumber = 0;
-        public static int numOfQuestions = 15;
+        public static int numOfQuestions = 25;
         public static int[] score = new int[numOfQuestions];
         public static DateTime startTime;
 
